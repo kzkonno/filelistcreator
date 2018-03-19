@@ -1,0 +1,14 @@
+{
+  "name": "filelistcreator",
+  "version": "1.0.0",
+  "description": "file list creator in the folder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "kaz",
+  "license": "ISC",
+  "dependencies": {
+    "graceful-fs": "^4.1.11"
+  }
+}
